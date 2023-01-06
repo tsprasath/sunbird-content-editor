@@ -21,7 +21,7 @@ org.ekstep.contenteditor.config = {
 	previewURL: '/content/preview/preview.html',
 	cloudStorage: {
 		provider: 'gcloud',
-		azure: {
+		gcloud: {
 		//   url: 'https://www.azureblogstorage.com'
 		  presigned_headers: {
 			
